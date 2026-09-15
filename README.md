@@ -29,7 +29,7 @@ A Python tool that fetches **live USD/INR exchange rate data** and visualizes th
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/baalu-avr/usdinr-forex-tracker.git
+git clone https://github.com/baalu-xbt/usdinr-forex-tracker.git
 cd usdinr-forex-tracker
 ```
 
@@ -97,10 +97,10 @@ Live and historical USD/INR exchange rate data sourced from **Yahoo Finance** (`
 
 ## 🔗 Related Project
 
-- [RBI Monetary Policy Tracker](https://github.com/baalu-avr/rbi-policy-tracker-app) — tracks 90 years of RBI rate decisions
+- [RBI Monetary Policy Tracker](https://github.com/baalu-xbt/rbi-policy-visualizer-app) — tracks 90 years of RBI rate decisions
 
 ---
 
 ## 👤 Author
 
-Built by **Balaji K** — connect on [LinkedIn](https://www.linkedin.com/in/balaji-k-58a3932ab) | [GitHub](https://github.com/baalu-avr)
+Built by **Balaji K** — connect on [LinkedIn](https://www.linkedin.com/in/balaji-k-58a3932ab) | [GitHub](https://github.com/baalu-xbt)
